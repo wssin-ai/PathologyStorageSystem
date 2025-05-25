@@ -9,7 +9,7 @@
 
 **병리과에서 사용하는 조직검사 대상물의 보관 및 폐기를 체계적으로 관리하는 웹 애플리케이션**
 
-[데모 보기](#데모) • [설치 가이드](#설치) • [기능 소개](#주요-기능) • [기여하기](#기여하기)
+[데모 보기](https://pathology-storage-system.vercel.app/) • [설치 가이드](#설치) • [기능 소개](#주요-기능) • [기여하기](#기여하기)
 
 </div>
 
@@ -315,7 +315,7 @@ isValidZoneName(name: string, existingZones: string[]): boolean
 
 ### 이슈 리포팅
 
-버그 리포트나 기능 제안은 [Issues](https://github.com/your-username/pathology-storage-system/issues)를 통해 제출해 주세요.
+버그 리포트나 기능 제안은 [Issues](https://github.com/wssin-ai/PathologyStorageSystem/issues)를 통해 제출해 주세요.
 
 **Bug Report Template:**
 ```markdown
@@ -342,7 +342,7 @@ isValidZoneName(name: string, existingZones: string[]): boolean
 
 ## 📄 라이선스
 
-이 프로젝트는 MIT 라이선스 하에 배포됩니다. 자세한 내용은 [LICENSE](LICENSE) 파일을 참조하세요.
+이 프로젝트는 MIT 라이선스 하에 배포됩니다.
 
 ---
 
